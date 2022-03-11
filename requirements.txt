@@ -3,4 +3,5 @@ argparse
 opencv-python
 numpy
 
+##tflite-runtime download
 ##https://github.com/google-coral/pycoral/releases/

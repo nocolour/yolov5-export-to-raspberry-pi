@@ -2,3 +2,5 @@ pillow
 argparse
 opencv-python
 numpy
+
+##https://github.com/google-coral/pycoral/releases/
